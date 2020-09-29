@@ -1,5 +1,7 @@
 ---
 main:
+- weight: 2
+  title: Teszt
 - identifier: home
   url: "/"
   weight: 1
